@@ -31,13 +31,14 @@ createImage('assets/green-character.gif', '500px', '400px');
 
 // Create and append pillar image
 // newitem pillar will delete when clicked
-newItem('assets/pillar.png', '850px', '700px');
+createImage('assets/pillar.png', '850px', '700px');
+
+// / / Create and append treeimage
+createImage('assets/tree.png', '600px', '405px' )
 
 // Create and append pine tree image
 // newitem pillar will delete when clicked
-newItem('assets/pine-tree.png ', '550px', '750px'); 
-
-
+createImage('assets/pine-tree.png ', '550px', '750px'); 
 
 // Create and append sword image
 // newItem sword will delete when clicked
@@ -52,6 +53,3 @@ newItem('assets/shield.png', '165px', '185px' )
 newItem('assets/staff.png', '200px', '405px')
 
 
-// / / Create and append staff image
-// newItem staff will delete when clicked
-createImage('assets/tree.png', '600px', '405px' )
