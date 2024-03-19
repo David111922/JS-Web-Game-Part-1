@@ -54,4 +54,4 @@ newItem('assets/staff.png', '200px', '405px')
 
 // / / Create and append staff image
 // newItem staff will delete when clicked
-newItem('assets/tree.png', '600px', '405px' )
+createImage('assets/tree.png', '600px', '405px' )
